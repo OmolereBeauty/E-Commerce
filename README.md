@@ -43,10 +43,10 @@ Stock-Outs and Overstocks: Identified instances of inventory running out or bein
 Vehicle Sales Performance: Tracked the number of vehicles sold by make and model to understand sales performance.
 
 Actionable Recommendations:
-Targeted Marketing: Developed marketing campaigns focusing on the most profitable demographics and regions.
-Loyalty Programs: Implemented programs to retain high-frequency buyers and high-value customers.
-Inventory Optimization: Used just-in-time inventory practices to maintain optimal stock levels.
-Promotional Strategies: Cleared slow-moving stock through discounts and promotions.
+Targeted Marketing: Develop marketing campaigns focusing on the most profitable demographics and regions.
+Loyalty Programs: Implement programs to retain high-frequency buyers and high-value customers.
+Inventory Optimization: Use just-in-time inventory practices to maintain optimal stock levels.
+Promotional Strategies: Clear slow-moving stock through discounts and promotions.
 
 Outcome:
 By the end of this project, I got a comprehensive understanding of the e-commerce platform's client distribution, revenue generation, and inventory management. This information will enable stakeholders make data-driven decisions to optimize business operations, enhance customer satisfaction, and increase profitability.
